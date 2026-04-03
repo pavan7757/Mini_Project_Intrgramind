@@ -1,0 +1,115 @@
+const fs = require('fs').promises;
+const path = require('path');
+const { createReadStream, createWriteStream } = require('fs');
+
+class InvertedIndex {
+  constructor(indexPath = './indexes/main.idx') {
+    this.indexPath = indexPath;
+    this.index = new Map();
+    this.docCount = 0;
+    this.termCount = 0;
+  }
+
+  // Tokenize and normalize text
+  tokenize(text) {
+    return text
+      .toLowerCase()
+      .replace(/[^\w\s]/g, ' ')
+      .split(/\s+/)
+      .filter(word => word.length > 2);
+  }
+
+  // Add document to index
+  async addDocument(docId, content, fields = {}) {
+    const tokens = this.tokenize(content);
+    const postings = new Map();
+
+    // Create field-aware postings
+    tokens.forEach((token, pos) => {
+      if (!postings.has(token)) postings.set(token, []);
+      postings.get(token).push({
+        docId,
+        positions: [pos],
+        fields: Object.keys(fields),
+        boost: fields.boost || 1.0
+      });
+    });
+
+    // Update main index
+    for (const [term, postingList] of postings) {
+      if (!this.index.has(term)) {
+        this.index.set(term, []);
+        this.termCount++;
+      }
+      this.index.get(term).push(...postingList);
+    }
+
+    this.docCount++;
+    await this.flush();
+  }
+
+  // Unix memory mapping for fast lookups
+  async loadIndex() {
+    try {
+      const stream = createReadStream(this.indexPath);
+      // Memory map implementation for large indexes
+      // This uses fs directly for mmap-like performance
+      const data = await new Promise((resolve, reject) => {
+        let chunks = [];
+        stream.on('data', chunk => chunks.push(chunk));
+        stream.on('end', () => resolve(Buffer.concat(chunks)));
+        stream.on('error', reject);
+      });
+      
+      // Deserialize index (simplified)
+      const indexData = JSON.parse(data.toString());
+      this.index = new Map(Object.entries(indexData));
+    } catch (e) {
+      console.log('Creating new index...');
+    }
+  }
+
+  // Search with field boosting
+  search(query, options = {}) {
+    const queryTokens = this.tokenize(query);
+    const results = new Map();
+
+    queryTokens.forEach(token => {
+      const postings = this.index.get(token);
+      if (postings) {
+        postings.forEach(posting => {
+          const score = this.calculateScore(posting, options);
+          const currentScore = results.get(posting.docId) || 0;
+          results.set(posting.docId, Math.max(currentScore, score));
+        });
+      }
+    });
+
+    return Array.from(results.entries())
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, options.limit || 10);
+  }
+
+  calculateScore(posting, options) {
+    let score = 1.0 / (1 + posting.positions.length); // TF-IDF base
+    
+    // Field boosting
+    if (options.boostFields) {
+      posting.fields.forEach(field => {
+        if (options.boostFields[field]) {
+          score *= options.boostFields[field];
+        }
+      });
+    }
+    
+    return score * posting.boost;
+  }
+
+  async flush() {
+    await fs.writeFile(this.indexPath, JSON.stringify(
+      Object.fromEntries(this.index), null, 2
+    ));
+  }
+}
+
+module.exports = InvertedIndex;

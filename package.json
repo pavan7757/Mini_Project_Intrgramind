@@ -1,0 +1,14 @@
+{
+  "name": "inverted-index-search",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "mongodb": "^6.21.0"
+  }
+}

@@ -1,0 +1,110 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    color: #333;
+}
+
+.container { max-width: 900px; margin: 0 auto; padding: 20px; }
+
+header { 
+    text-align: center; 
+    color: white; 
+    margin-bottom: 40px;
+}
+header h1 { font-size: 2.5em; margin-bottom: 10px; }
+header p { font-size: 1.2em; opacity: 0.9; }
+
+.search-box {
+    background: white;
+    border-radius: 50px;
+    padding: 5px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+#searchInput {
+    flex: 1;
+    border: none;
+    padding: 20px 25px;
+    font-size: 1.1em;
+    outline: none;
+}
+.search-box button {
+    background: linear-gradient(45deg, #667eea, #764ba2);
+    border: none;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1.2em;
+    margin-left: 10px;
+}
+.search-box button:hover { transform: scale(1.05); }
+
+.controls {
+    background: rgba(255,255,255,0.9);
+    padding: 15px 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 20px;
+    font-size: 0.95em;
+}
+
+.results {
+    min-height: 300px;
+    background: white;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.1);
+}
+.result-item {
+    border-left: 4px solid #667eea;
+    padding: 20px;
+    margin-bottom: 15px;
+    background: #f8f9ff;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.result-item:hover { transform: translateX(10px); box-shadow: 0 5px 20px rgba(0,0,0,0.1); }
+.result-title { font-size: 1.3em; font-weight: bold; color: #333; margin-bottom: 5px; }
+.result-content { color: #666; margin-bottom: 10px; line-height: 1.4; }
+.result-score { 
+    background: #4CAF50; 
+    color: white; 
+    padding: 4px 12px; 
+    border-radius: 20px; 
+    font-size: 0.8em; 
+    font-weight: bold;
+}
+
+.stats-panel, .add-doc {
+    background: rgba(255,255,255,0.9);
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.health-panel { margin-top: 10px; padding: 15px; background: #e8f5e8; border-radius: 10px; font-family: monospace; }
+
+.loading, .no-results { text-align: center; padding: 40px; color: #666; font-size: 1.1em; }
+.search-stats { font-size: 0.9em; color: #666; padding-left: 10px; }
+
+.add-doc input, .add-doc textarea {
+    width: 100%; margin-bottom: 10px; padding: 12px; border: 2px solid #eee; border-radius: 8px;
+}
+.add-doc textarea { height: 80px; resize: vertical; }
+.add-doc button {
+    background: linear-gradient(45deg, #4CAF50, #45a049);
+    color: white; border: none; padding: 12px 30px;
+    border-radius: 25px; cursor: pointer; font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .search-box { flex-direction: column; border-radius: 20px; }
+    #searchInput { border-radius: 15px; margin-bottom: 10px; }
+    .controls { flex-direction: column; gap: 10px; }
+}
