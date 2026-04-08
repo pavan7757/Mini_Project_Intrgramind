@@ -7,105 +7,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "name": [
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472563045",
       "positions": [
@@ -123,249 +27,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472563045",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "react": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -423,345 +87,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "text": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -819,201 +147,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "next": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -1031,145 +167,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "with": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -1211,150 +211,6 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "indexes": [
@@ -1373,249 +229,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "mongodb": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -1665,249 +281,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "field": [
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472794788",
       "positions": [
@@ -1933,201 +309,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472794788",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "node": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2169,153 +353,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "custom": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2333,105 +373,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "mapped": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2449,105 +393,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "compression": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2565,105 +413,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "scripts": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2681,105 +433,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "schema": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        14
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2797,105 +453,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "api": [
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472826332",
-      "positions": [
-        16
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472826332",
       "positions": [
@@ -2921,153 +481,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "weights": [
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774472853742",
       "positions": [
@@ -3085,54 +501,6 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "driver": [
@@ -3143,153 +511,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774472853742",
-      "positions": [
-        15
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "nike": [
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474135647",
       "positions": [
@@ -3323,201 +547,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "jordan": [
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474135647",
       "positions": [
@@ -3543,54 +575,6 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "basketball": [
@@ -3601,145 +585,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "shoes": [
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474135647",
       "positions": [
@@ -3765,105 +613,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "black": [
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474135647",
       "positions": [
@@ -3881,201 +633,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "add": [
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        12
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474135647",
       "positions": [
@@ -4125,249 +685,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474135647",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        13
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "python": [
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        3
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474152833",
       "positions": [
@@ -4409,201 +729,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "remote": [
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474152833",
       "positions": [
@@ -4621,105 +749,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "aws": [
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474152833",
       "positions": [
@@ -4737,105 +769,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "work": [
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474152833",
       "positions": [
@@ -4853,105 +789,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        9
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "home": [
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        10
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474152833",
       "positions": [
@@ -4969,105 +809,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474152833",
-      "positions": [
-        11
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "hooks": [
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474173104",
       "positions": [
@@ -5093,153 +837,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        7
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "usestate": [
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        4
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474173104",
       "positions": [
@@ -5257,105 +857,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "tutorial": [
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        6
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774474173104",
       "positions": [
@@ -5373,97 +877,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774474173104",
-      "positions": [
-        8
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "adidas": [
-    {
-      "docId": "1774501252580",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        0
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774501252580",
       "positions": [
@@ -5481,89 +897,9 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        1
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "running": [
-    {
-      "docId": "1774501252580",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        2
-      ],
-      "fields": [],
-      "boost": 1
-    },
     {
       "docId": "1774501252580",
       "positions": [
@@ -5581,46 +917,6 @@
       ],
       "fields": [],
       "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
-    },
-    {
-      "docId": "1774501252580",
-      "positions": [
-        5
-      ],
-      "fields": [],
-      "boost": 1
     }
   ],
   "technology": [
@@ -5631,9 +927,107 @@
       ],
       "fields": [],
       "boost": 1
+    }
+  ],
+  "hlo": [
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
     },
     {
-      "docId": "1774501252580",
+      "docId": "1775475883888",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "hsacbhqkw": [
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "pawan": [
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "doc1": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "apple": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
       "positions": [
         6
       ],
@@ -5641,33 +1035,115 @@
       "boost": 1
     },
     {
-      "docId": "1774501252580",
+      "docId": "Doc3",
       "positions": [
-        6
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "banana": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        2
       ],
       "fields": [],
       "boost": 1
     },
     {
-      "docId": "1774501252580",
+      "docId": "Doc1",
       "positions": [
-        6
+        4
       ],
       "fields": [],
       "boost": 1
     },
     {
-      "docId": "1774501252580",
+      "docId": "Doc2",
       "positions": [
-        6
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "mango": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        3
       ],
       "fields": [],
       "boost": 1
     },
     {
-      "docId": "1774501252580",
+      "docId": "Doc1",
       "positions": [
-        6
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "orange": [
+    {
+      "docId": "Doc1",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "doc2": [
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    }
+  ],
+  "doc3": [
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
       ],
       "fields": [],
       "boost": 1

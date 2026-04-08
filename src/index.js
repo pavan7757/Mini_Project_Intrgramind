@@ -22,6 +22,7 @@ app.get('/', (req, res) => {
 
 // Initialize search engines
 const invertedIndex = new InvertedIndex();
+const documentStore = new Map();
 let mongoIndexer = null;
 let mongodbConnected = false;
 
@@ -33,11 +34,17 @@ app.get('/search', async (req, res) => {
     
     const results = invertedIndex.search(q, { boostFields, limit: parseInt(limit) });
     
-    // Fetch document details from MongoDB if connected
-    let enrichedResults = results.map(([docId, score]) => ({
-      docId, 
-      score: Math.round(score * 100) / 100
-    }));
+    // Local document store makes added docs searchable immediately
+    let enrichedResults = results.map(([docId, score]) => {
+      const stored = documentStore.get(docId);
+      return {
+        docId,
+        score: Math.round(score * 100) / 100,
+        title: stored?.title || docId,
+        content: stored?.content || '',
+        description: stored?.description || ''
+      };
+    });
     
     if (mongodbConnected && mongoIndexer) {
       const docIds = results.map(([docId]) => docId);
@@ -49,12 +56,13 @@ app.get('/search', async (req, res) => {
       
       enrichedResults = results.map(([docId, score]) => {
         const doc = docMap.get(docId);
+        const localDoc = documentStore.get(docId);
         return {
           docId,
           score: Math.round(score * 100) / 100,
-          title: doc?.title || 'Untitled',
-          content: doc?.content || '',
-          description: doc?.description || ''
+          title: doc?.title || localDoc?.title || docId,
+          content: doc?.content || localDoc?.content || '',
+          description: doc?.description || localDoc?.description || ''
         };
       });
     }
@@ -74,7 +82,16 @@ app.get('/search', async (req, res) => {
 app.post('/index', async (req, res) => {
   try {
     const { title, content, description, fields = {} } = req.body;
-    const docId = Date.now().toString();
+    let docId = title?.trim() || Date.now().toString();
+    if (documentStore.has(docId)) {
+      docId = `${docId}-${Date.now()}`;
+    }
+    
+    documentStore.set(docId, {
+      title: title || docId,
+      content: content || '',
+      description: description || ''
+    });
     
     // Always save to Inverted Index
     const fullText = `${title || ''} ${content || ''} ${description || ''}`.trim();
@@ -112,6 +129,19 @@ app.get('/health', async (req, res) => {
     mongodbConnected,
     invertedIndex: { docs: invertedIndex.docCount, terms: invertedIndex.termCount },
     mongodb: { connected: mongodbConnected, docs: mongoCount }
+  });
+});
+
+// Inverted Index data for frontend display
+app.get('/index-data', (req, res) => {
+  const simplifiedIndex = {};
+  for (const [term, postings] of invertedIndex.index.entries()) {
+    simplifiedIndex[term] = Array.from(new Set(postings.map(post => post.docId)));
+  }
+  res.json({
+    docs: invertedIndex.docCount,
+    terms: invertedIndex.termCount,
+    index: simplifiedIndex
   });
 });
 

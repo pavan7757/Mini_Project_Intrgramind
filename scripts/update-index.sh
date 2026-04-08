@@ -17,3 +17,6 @@ node -e "
 
 echo "🗜️  Optimizing compression..."
 ./scripts/optimize-index.sh
+
+
+

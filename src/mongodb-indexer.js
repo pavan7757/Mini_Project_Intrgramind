@@ -49,3 +49,4 @@ class MongoDBIndexer {
 }
 
 module.exports = MongoDBIndexer;
+

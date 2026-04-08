@@ -1,12 +1,11 @@
-let debounceTimer;
-
-document.getElementById('searchInput').addEventListener('input', function() {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => performSearch(), 300);
-});
-
+// Event listeners
 document.getElementById('searchInput').addEventListener('keypress', function(e) {
     if (e.key === 'Enter') performSearch();
+});
+
+// Add click event listener to search button
+document.querySelector('.search-box button').addEventListener('click', function() {
+    performSearch();
 });
 
 async function performSearch() {
@@ -73,6 +72,10 @@ async function showHealth() {
         Inverted Index: 🟢 ${data.invertedIndex.docs} docs, ${data.invertedIndex.terms} terms
     `;
 }
+
+window.addEventListener('DOMContentLoaded', () => {
+    showHealth();
+});
 
 async function addDocument() {
     const title = document.getElementById('docTitle').value;
