@@ -7,6 +7,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "health"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "health"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "health"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "health"
     }
   ],
   "name": [
@@ -17,6 +69,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "name"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "name"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "name"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "name"
     }
   ],
   "pavan": [
@@ -27,6 +131,370 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        21
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        28
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        33
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        37
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        44
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        46
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        55
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        21
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        28
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        33
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        37
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        44
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        46
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        55
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        21
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        28
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        33
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        37
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        44
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        46
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        55
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1,
+        10,
+        13,
+        21,
+        28,
+        33,
+        37,
+        44,
+        46,
+        55
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1,
+        10,
+        13,
+        21,
+        28,
+        33,
+        37,
+        44,
+        46,
+        55
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1,
+        10,
+        13,
+        21,
+        28,
+        33,
+        37,
+        44,
+        46,
+        55
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "1774472563045",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        1,
+        10,
+        13,
+        21,
+        28,
+        33,
+        37,
+        44,
+        46,
+        55
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pavan"
     }
   ],
   "react": [
@@ -61,6 +529,150 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "react"
     }
   ],
   "full": [
@@ -87,6 +699,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "full"
     }
   ],
   "text": [
@@ -121,6 +857,150 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7,
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7,
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7,
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        7,
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "text"
     }
   ],
   "search": [
@@ -147,6 +1027,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "search"
     }
   ],
   "next": [
@@ -157,6 +1161,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "next"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "next"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "next"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "next"
     }
   ],
   "engine": [
@@ -167,6 +1223,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "engine"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "engine"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "engine"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "engine"
     }
   ],
   "with": [
@@ -185,6 +1293,170 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "with"
     }
   ],
   "inverted": [
@@ -211,6 +1483,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        1,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "inverted"
     }
   ],
   "indexes": [
@@ -229,6 +1625,110 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "indexes"
     }
   ],
   "mongodb": [
@@ -255,6 +1755,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mongodb"
     }
   ],
   "atlas": [
@@ -281,6 +1905,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        1,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "atlas"
     }
   ],
   "field": [
@@ -299,6 +2047,110 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "field"
     }
   ],
   "boosting": [
@@ -309,6 +2161,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boosting"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boosting"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boosting"
+    },
+    {
+      "docId": "1774472794788",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boosting"
     }
   ],
   "node": [
@@ -335,6 +2239,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        0,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "node"
     }
   ],
   "index": [
@@ -353,6 +2381,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "index"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "index"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "index"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        2,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "index"
     }
   ],
   "custom": [
@@ -363,6 +2463,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "custom"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "custom"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "custom"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "custom"
     }
   ],
   "memory": [
@@ -373,6 +2525,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "memory"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "memory"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "memory"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "memory"
     }
   ],
   "mapped": [
@@ -383,6 +2587,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mapped"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mapped"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mapped"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mapped"
     }
   ],
   "unix": [
@@ -393,6 +2649,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "unix"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "unix"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "unix"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "unix"
     }
   ],
   "compression": [
@@ -403,6 +2711,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "compression"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "compression"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "compression"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "compression"
     }
   ],
   "shell": [
@@ -413,6 +2773,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shell"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shell"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shell"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shell"
     }
   ],
   "scripts": [
@@ -423,6 +2835,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scripts"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scripts"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scripts"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scripts"
     }
   ],
   "git": [
@@ -433,6 +2897,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "git"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "git"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "git"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "git"
     }
   ],
   "schema": [
@@ -443,6 +2959,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "schema"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "schema"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "schema"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "schema"
     }
   ],
   "express": [
@@ -453,6 +3021,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "express"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "express"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "express"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "express"
     }
   ],
   "api": [
@@ -463,6 +3083,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "api"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "api"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "api"
+    },
+    {
+      "docId": "1774472826332",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "api"
     }
   ],
   "cloud": [
@@ -481,6 +3153,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cloud"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cloud"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cloud"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        2,
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "cloud"
     }
   ],
   "weights": [
@@ -491,6 +3235,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "weights"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "weights"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "weights"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "weights"
     }
   ],
   "scoring": [
@@ -501,6 +3297,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scoring"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scoring"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scoring"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "scoring"
     }
   ],
   "driver": [
@@ -511,6 +3359,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "driver"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "driver"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "driver"
+    },
+    {
+      "docId": "1774472853742",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "driver"
     }
   ],
   "nike": [
@@ -529,6 +3429,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "nike"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "nike"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "nike"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        0,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "nike"
     }
   ],
   "air": [
@@ -547,6 +3519,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "air"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "air"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "air"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "air"
     }
   ],
   "jordan": [
@@ -565,6 +3609,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "jordan"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "jordan"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "jordan"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        2,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "jordan"
     }
   ],
   "premium": [
@@ -575,6 +3691,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "premium"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "premium"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "premium"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "premium"
     }
   ],
   "basketball": [
@@ -585,6 +3753,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "basketball"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "basketball"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "basketball"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "basketball"
     }
   ],
   "shoes": [
@@ -603,6 +3823,110 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "shoes"
     }
   ],
   "red": [
@@ -613,6 +3937,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "red"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "red"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "red"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "red"
     }
   ],
   "black": [
@@ -623,6 +3999,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "black"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "black"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "black"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "black"
     }
   ],
   "leather": [
@@ -633,6 +4061,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "leather"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "leather"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "leather"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "leather"
     }
   ],
   "add": [
@@ -659,6 +4139,162 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "add"
     }
   ],
   "document": [
@@ -685,6 +4321,162 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474135647",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        13
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "document"
     }
   ],
   "python": [
@@ -703,6 +4495,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "python"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "python"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "python"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        0,
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "python"
     }
   ],
   "developer": [
@@ -729,6 +4593,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        1,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "developer"
     }
   ],
   "remote": [
@@ -739,6 +4727,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "remote"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "remote"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "remote"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "remote"
     }
   ],
   "django": [
@@ -749,6 +4789,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "django"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "django"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "django"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "django"
     }
   ],
   "aws": [
@@ -759,6 +4851,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aws"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aws"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aws"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aws"
     }
   ],
   "backend": [
@@ -769,6 +4913,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "backend"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "backend"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "backend"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "backend"
     }
   ],
   "work": [
@@ -779,6 +4975,118 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        45
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "work"
     }
   ],
   "from": [
@@ -789,6 +5097,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "from"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "from"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "from"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "from"
     }
   ],
   "home": [
@@ -799,6 +5159,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "home"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "home"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "home"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        10
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "home"
     }
   ],
   "15l": [
@@ -809,6 +5221,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "15l"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "15l"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "15l"
+    },
+    {
+      "docId": "1774474152833",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "15l"
     }
   ],
   "hooks": [
@@ -819,6 +5283,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hooks"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hooks"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hooks"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hooks"
     }
   ],
   "hindi": [
@@ -837,6 +5353,78 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hindi"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hindi"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hindi"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        2,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hindi"
     }
   ],
   "usestate": [
@@ -847,6 +5435,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "usestate"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "usestate"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "usestate"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "usestate"
     }
   ],
   "useeffect": [
@@ -857,6 +5497,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "useeffect"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "useeffect"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "useeffect"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "useeffect"
     }
   ],
   "tutorial": [
@@ -867,6 +5559,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tutorial"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tutorial"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tutorial"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tutorial"
     }
   ],
   "beginner": [
@@ -877,6 +5621,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "beginner"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "beginner"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "beginner"
+    },
+    {
+      "docId": "1774474173104",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "beginner"
     }
   ],
   "adidas": [
@@ -887,6 +5683,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "adidas"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "adidas"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "adidas"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "adidas"
     }
   ],
   "ultraboost": [
@@ -897,6 +5745,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "ultraboost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "ultraboost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "ultraboost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "ultraboost"
     }
   ],
   "running": [
@@ -907,6 +5807,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "running"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "running"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "running"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "running"
     }
   ],
   "boost": [
@@ -917,6 +5869,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boost"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "boost"
     }
   ],
   "technology": [
@@ -927,6 +5931,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "technology"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "technology"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "technology"
+    },
+    {
+      "docId": "1774501252580",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "technology"
     }
   ],
   "hlo": [
@@ -969,6 +6025,234 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0,
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0,
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0,
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        0,
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hlo"
     }
   ],
   "hsacbhqkw": [
@@ -979,6 +6263,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hsacbhqkw"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hsacbhqkw"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hsacbhqkw"
+    },
+    {
+      "docId": "1775224938455",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "hsacbhqkw"
     }
   ],
   "pawan": [
@@ -1005,6 +6341,162 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775475883888",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "1775476608094",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
+    },
+    {
+      "docId": "pawan",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "pawan"
     }
   ],
   "doc1": [
@@ -1015,6 +6507,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc1"
     }
   ],
   "apple": [
@@ -1041,6 +6585,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        1,
+        6
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "apple"
     }
   ],
   "banana": [
@@ -1067,6 +6735,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        4
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        2,
+        4
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        1
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "banana"
     }
   ],
   "mango": [
@@ -1093,6 +6885,130 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        3,
+        8
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "mango"
     }
   ],
   "orange": [
@@ -1127,6 +7043,182 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc1",
+      "positions": [
+        5,
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "orange"
     }
   ],
   "doc2": [
@@ -1137,6 +7229,58 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
+    },
+    {
+      "docId": "Doc2",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc2"
     }
   ],
   "doc3": [
@@ -1147,6 +7291,2072 @@
       ],
       "fields": [],
       "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    },
+    {
+      "docId": "Doc3",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "doc3"
+    }
+  ],
+  "story": [
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "story"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "story"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "story"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        0
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "story"
+    }
+  ],
+  "went": [
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "went"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "went"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "went"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        2
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "went"
+    }
+  ],
+  "market": [
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "market"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "market"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "market"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        3
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "market"
+    }
+  ],
+  "rahul": [
+    {
+      "docId": "story",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        18
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        23
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        27
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        35
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        36
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        47
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        52
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        18
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        23
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        27
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        35
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        36
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        47
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        52
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        6
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        18
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        23
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        27
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        35
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        36
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        47
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        52
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5,
+        6,
+        18,
+        23,
+        27,
+        35,
+        36,
+        47,
+        52
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "rahul"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5,
+        6,
+        18,
+        23,
+        27,
+        35,
+        36,
+        47,
+        52
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "rahul"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5,
+        6,
+        18,
+        23,
+        27,
+        35,
+        36,
+        47,
+        52
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "rahul"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        5,
+        6,
+        18,
+        23,
+        27,
+        35,
+        36,
+        47,
+        52
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "rahul"
+    }
+  ],
+  "met": [
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "met"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "met"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "met"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        7
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "met"
+    }
+  ],
+  "aman": [
+    {
+      "docId": "story",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        25
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        26
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        40
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        41
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        48
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        25
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        26
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        40
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        41
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        48
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        11
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        25
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        26
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        40
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        41
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        48
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8,
+        11,
+        25,
+        26,
+        40,
+        41,
+        48
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aman"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8,
+        11,
+        25,
+        26,
+        40,
+        41,
+        48
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aman"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8,
+        11,
+        25,
+        26,
+        40,
+        41,
+        48
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aman"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        8,
+        11,
+        25,
+        26,
+        40,
+        41,
+        48
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "aman"
+    }
+  ],
+  "and": [
+    {
+      "docId": "story",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        17
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        24
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        34
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        17
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        24
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        34
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        17
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        24
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        34
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9,
+        17,
+        24,
+        34
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "and"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9,
+        17,
+        24,
+        34
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "and"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9,
+        17,
+        24,
+        34
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "and"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        9,
+        17,
+        24,
+        34
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "and"
+    }
+  ],
+  "told": [
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "told"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "told"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "told"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        12
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "told"
+    }
+  ],
+  "about": [
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "about"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "about"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "about"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        14
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "about"
+    }
+  ],
+  "sita": [
+    {
+      "docId": "story",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        31
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        42
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        51
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        31
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        42
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        51
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        16
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        31
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        42
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        51
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15,
+        16,
+        31,
+        42,
+        51
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "sita"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15,
+        16,
+        31,
+        42,
+        51
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "sita"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15,
+        16,
+        31,
+        42,
+        51
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "sita"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        15,
+        16,
+        31,
+        42,
+        51
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "sita"
+    }
+  ],
+  "working": [
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "working"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "working"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "working"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        19
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "working"
+    }
+  ],
+  "project": [
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "project"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "project"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "project"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        20
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "project"
+    }
+  ],
+  "joined": [
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "joined"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "joined"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "joined"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        22
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "joined"
+    }
+  ],
+  "discussed": [
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "discussed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "discussed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "discussed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        29
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "discussed"
+    }
+  ],
+  "plan": [
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "plan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "plan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "plan"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        30
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "plan"
+    }
+  ],
+  "helped": [
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "helped"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "helped"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "helped"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        32
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "helped"
+    }
+  ],
+  "tested": [
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tested"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tested"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tested"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        38
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "tested"
+    }
+  ],
+  "code": [
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "code"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "code"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "code"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        39
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "code"
+    }
+  ],
+  "reviewed": [
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "reviewed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "reviewed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "reviewed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        43
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "reviewed"
+    }
+  ],
+  "fixed": [
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "fixed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "fixed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "fixed"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        49
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "fixed"
+    }
+  ],
+  "bugs": [
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "bugs"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "bugs"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "bugs"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        50
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "bugs"
+    }
+  ],
+  "added": [
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "added"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "added"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "added"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        53
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "added"
+    }
+  ],
+  "features": [
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "features"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "features"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "features"
+    },
+    {
+      "docId": "story",
+      "positions": [
+        54
+      ],
+      "fields": [],
+      "boost": 1,
+      "term": "features"
     }
   ]
 }

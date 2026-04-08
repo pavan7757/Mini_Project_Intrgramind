@@ -24,24 +24,29 @@ class InvertedIndex {
     const tokens = this.tokenize(content);
     const postings = new Map();
 
-    // Create field-aware postings
+    // Create field-aware postings - accumulate positions for same word
     tokens.forEach((token, pos) => {
-      if (!postings.has(token)) postings.set(token, []);
-      postings.get(token).push({
-        docId,
-        positions: [pos],
-        fields: Object.keys(fields),
-        boost: fields.boost || 1.0
-      });
+      const key = `${token}-${docId}`; // Unique key per word per document
+      if (!postings.has(key)) {
+        postings.set(key, {
+          docId,
+          positions: [],
+          fields: Object.keys(fields),
+          boost: fields.boost || 1.0,
+          term: token
+        });
+      }
+      postings.get(key).positions.push(pos);
     });
 
     // Update main index
-    for (const [term, postingList] of postings) {
+    for (const [key, posting] of postings) {
+      const term = posting.term;
       if (!this.index.has(term)) {
         this.index.set(term, []);
         this.termCount++;
       }
-      this.index.get(term).push(...postingList);
+      this.index.get(term).push(posting);
     }
 
     this.docCount++;
@@ -91,9 +96,10 @@ class InvertedIndex {
   }
 
   calculateScore(posting, options) {
-    let score = 1.0 / (1 + posting.positions.length); // TF-IDF base
-    
-    // Field boosting
+    // Exact word count as score
+    let score = posting.positions.length;
+
+    // Field boosting: title matches get extra boost
     if (options.boostFields) {
       posting.fields.forEach(field => {
         if (options.boostFields[field]) {
@@ -101,7 +107,8 @@ class InvertedIndex {
         }
       });
     }
-    
+
+    // Apply document-level boost
     return score * posting.boost;
   }
 

@@ -14,29 +14,35 @@
             <p>Powered by Inverted Indexes + MongoDB Atlas</p>
         </header>
 
-        <div class="search-box">
-            <input type="text" id="searchInput" placeholder="Search documents... (try 'react', 'mongodb', 'node')" autocomplete="off">
-            <button onclick="performSearch()"><i class="fas fa-search"></i></button>
+        <div class="search-container">
+            <div class="search-box">
+                <div class="search-icon">
+                    <i class="fas fa-search"></i>
+                </div>
+                <input type="text" id="searchInput" placeholder="Search documents... (try 'react', 'mongodb', 'node')" autocomplete="off">
+                <div class="search-actions">
+                    <button class="search-btn" onclick="performSearch()">
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                    <button class="clear-btn" onclick="clearSearch()" style="display: none;">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="search-loading" id="searchLoading" style="display: none;">
+                    <i class="fas fa-spinner fa-spin"></i>
+                </div>
+            </div>
+            <div class="search-suggestions" id="searchSuggestions" style="display: none;">
+                <div class="suggestion-item" onclick="setSearchTerm('react')">🔥 react</div>
+                <div class="suggestion-item" onclick="setSearchTerm('mongodb')">🗄️ mongodb</div>
+                <div class="suggestion-item" onclick="setSearchTerm('node')">🟢 node</div>
+                <div class="suggestion-item" onclick="setSearchTerm('javascript')">💛 javascript</div>
+                <div class="suggestion-item" onclick="setSearchTerm('pavan')">👤 pavan</div>
+            </div>
             <div class="search-stats" id="stats"></div>
         </div>
 
-        <div class="controls">
-            <label>
-                <input type="checkbox" id="titleBoost" checked> Title Boost (10x)
-            </label>
-            <label>
-                Limit: <select id="limit">
-                    <option value="5">5</option>
-                    <option value="10" selected>10</option>
-                    <option value="20">20</option>
-                </select>
-            </label>
-        </div>
-
         <div class="results" id="results">
-            <div class="loading" id="loading" style="display:none;">
-                <i class="fas fa-spinner fa-spin"></i> Searching...
-            </div>
             <div class="no-results" id="noResults" style="display:none;">
                 <i class="fas fa-inbox"></i> No results found
             </div>

@@ -1,43 +1,102 @@
-// Event listeners
-document.getElementById('searchInput').addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') performSearch();
+// Event listeners - enhanced with new features
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.querySelector('.search-btn');
+    const clearButton = document.querySelector('.clear-btn');
+    const suggestions = document.getElementById('searchSuggestions');
+
+    if (searchInput) {
+        searchInput.addEventListener('focus', function() {
+            if (this.value.trim() === '') {
+                suggestions.style.display = 'block';
+            }
+        });
+
+        searchInput.addEventListener('input', function() {
+            const clearBtn = document.querySelector('.clear-btn');
+            if (this.value.trim() !== '') {
+                clearBtn.style.display = 'flex';
+                suggestions.style.display = 'none';
+            } else {
+                clearBtn.style.display = 'none';
+                suggestions.style.display = 'block';
+            }
+        });
+
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                performSearch();
+            }
+        });
+
+        // Hide suggestions when clicking outside
+        document.addEventListener('click', function(e) {
+            if (!searchInput.contains(e.target) && !suggestions.contains(e.target)) {
+                suggestions.style.display = 'none';
+            }
+        });
+    }
+
+    if (searchButton) {
+        searchButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            performSearch();
+        });
+    }
+
+    if (clearButton) {
+        clearButton.addEventListener('click', function(e) {
+            e.preventDefault();
+            clearSearch();
+        });
+    }
 });
 
-// Add click event listener to search button
-document.querySelector('.search-box button').addEventListener('click', function() {
+function setSearchTerm(term) {
+    const searchInput = document.getElementById('searchInput');
+    searchInput.value = term;
+    document.getElementById('searchSuggestions').style.display = 'none';
+    document.querySelector('.clear-btn').style.display = 'flex';
     performSearch();
-});
+}
+
+function clearSearch() {
+    const searchInput = document.getElementById('searchInput');
+    searchInput.value = '';
+    document.querySelector('.clear-btn').style.display = 'none';
+    document.getElementById('searchSuggestions').style.display = 'block';
+    document.getElementById('results').innerHTML = '';
+    document.getElementById('stats').textContent = '';
+    document.getElementById('noResults').style.display = 'none';
+}
 
 async function performSearch() {
     const query = document.getElementById('searchInput').value.trim();
     if (!query) return;
 
-    const loading = document.getElementById('loading');
+    const searchLoading = document.getElementById('searchLoading');
     const results = document.getElementById('results');
     const noResults = document.getElementById('noResults');
     const stats = document.getElementById('stats');
+    const suggestions = document.getElementById('searchSuggestions');
 
-    loading.style.display = 'block';
+    // Hide suggestions and show loading
+    suggestions.style.display = 'none';
+    searchLoading.style.display = 'block';
+
     results.innerHTML = '';
     noResults.style.display = 'none';
 
     try {
-        const titleBoost = document.getElementById('titleBoost').checked;
-        const limit = document.getElementById('limit').value;
-
         const params = new URLSearchParams({
             q: query,
-            limit: limit
+            limit: 10
         });
-        if (titleBoost) {
-            params.append('field', 'title');
-            params.append('boost', '10');
-        }
 
         const response = await fetch(`/search?${params}`);
         const data = await response.json();
 
-        loading.style.display = 'none';
+        searchLoading.style.display = 'none';
         stats.textContent = `${data.total} results (MongoDB: ${data.mongodb ? 'Connected' : 'Offline'})`;
 
         if (data.results.length === 0) {
@@ -56,6 +115,7 @@ async function performSearch() {
             results.appendChild(div);
         });
     } catch (error) {
+        console.error('Search error:', error);
         loading.style.display = 'none';
         results.innerHTML = `<div style="color:red;">Error: ${error.message}</div>`;
     }
